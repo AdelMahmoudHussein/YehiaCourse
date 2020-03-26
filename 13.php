@@ -60,7 +60,7 @@ function toThePower($base, $power)
     }
 }
 
-
+/*
 echo toThePower(2, 5).'<br>';
 echo toThePower(2, 3.25).'<br>';
 
@@ -69,4 +69,4 @@ echo toThePower(-2, 6).'<br>';
 
 echo toThePower(2, -5).'<br>';
 echo toThePower(-2, -5).'<br>';
-toT
+*/
